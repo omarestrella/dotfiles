@@ -1,0 +1,8 @@
+[ui]
+username=Omar Estrella <omar@caktusgroup.com>
+
+[extensions]
+transplant=
+mq =
+rebase = 
+
